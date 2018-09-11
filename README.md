@@ -1,7 +1,7 @@
 # Golang-Ring-Buffer
 Simple circular buffer of strings. 
 
-#Example
+# Usage
 ```javascript
 package main
 
